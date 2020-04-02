@@ -1,3 +1,8 @@
+require './command_interface.rb'
+require './simple_command.rb'
+require './complex_command.rb'
+require './receiver.rb'
+
 class Invoker
   def on_start=(command)
     @on_start = command

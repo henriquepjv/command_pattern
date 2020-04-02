@@ -3,7 +3,7 @@ Command design pattern example in Ruby
 
 Script:
 
-- How to run o irb:
+- How to run on irb:
 `irb -r ./invoker.rb`
 
 ```ruby
